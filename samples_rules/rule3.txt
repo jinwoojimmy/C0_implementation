@@ -1,0 +1,11 @@
+R1
+P>bD;Se
+R2
+D>d;D
+R3
+D>d
+R4
+S>s;S
+R5
+S>s
+
